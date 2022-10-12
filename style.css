@@ -1,0 +1,47 @@
+body{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.label{
+  border: 2px solid black;
+  width: 320px;
+  margin: 20px auto;
+  padding: 0 7px;
+}
+.divider1{
+  border-bottom: 4px solid black;
+  padding:6px 4px;
+}
+.divider2{
+  border-bottom: 10px solid black;
+}
+.divider3{
+  border-bottom: 1px solid #888989;
+  clear: right;
+}
+
+p,h1{
+margin: 0;
+}
+.bold{
+  font-weight: 800;
+}
+.right{
+  float: right;
+}
+.calories p {
+  overflow: hidden;
+}
+.indent{
+  border-bottom: 1px solid #888989;
+  margin-left:1em;
+}
+.indent2{
+  border-bottom: 1px solid #888989;
+  margin-left:2em;
+}
+.end{
+  font-size: 0.65rem;
+  color: #88892;
+  margin: 7px 0;
+  letter-spacing: 0.15px;
+}
